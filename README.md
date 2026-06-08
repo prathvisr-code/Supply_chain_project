@@ -5,3 +5,5 @@ depletion and recommend optimal reorder times.
 Using historical supply chain data inspired by ITC 
 operations, the model helps improve inventory planning
 and reduce stockout risks.
+
+This project combines classical inventory management techniques (EOQ, Safety Stock, Reorder Point) with a Random Forest machine learning model to predict stockout risks up to 7 days in advance, enabling proactive replenishment decisions and reducing supply chain disruptions.
