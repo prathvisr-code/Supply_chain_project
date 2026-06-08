@@ -7,3 +7,4 @@ operations, the model helps improve inventory planning
 and reduce stockout risks.
 
 This project combines classical inventory management techniques (EOQ, Safety Stock, Reorder Point) with a Random Forest machine learning model to predict stockout risks up to 7 days in advance, enabling proactive replenishment decisions and reducing supply chain disruptions.
+Re-stock(+7 happens when Current Stock<Safety Stock(92) 
